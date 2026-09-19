@@ -1,0 +1,6 @@
+{
+  "name": "DevTrace AI Engine",
+  "description": "AI code security auditor and license compliance engine for HackDevengers 2.0. Analyzes code and repository manifests for exposed secrets, CVE vulnerabilities, and license conflicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
